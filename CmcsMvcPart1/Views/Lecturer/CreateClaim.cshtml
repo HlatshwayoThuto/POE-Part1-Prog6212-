@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Create Claim";
+}
+<h2>Create Claim</h2>
+@if(ViewBag.Message != null) {
+    <p class="info">@ViewBag.Message</p>
+}
+<form method="post" action="/Lecturer/CreateClaimPost" enctype="multipart/form-data">
+    <div class="form-row"><label for="hours">Hours Worked</label><input type="number" id="hours" name="hours" required /></div>
+    <div class="form-row"><label for="rate">Hourly Rate (ZAR)</label><input type="number" id="rate" name="rate" required /></div>
+    <div class="form-row"><label for="notes">Notes</label><textarea id="notes" name="notes" rows="3"></textarea></div>
+    <div class="form-row"><label for="support">Upload Supporting Document</label><input type="file" id="support" name="support" accept=".pdf,.docx,.xlsx" /></div>
+    <div class="form-row"><button class="btn" type="submit">Submit Claim</button></div>
+</form>

@@ -1,0 +1,20 @@
+@{
+    ViewData["Title"] = "Manager Dashboard";
+}
+<h2>Manager Dashboard</h2>
+<p>Approve or disapprove verified claims.</p>
+@if(ViewBag.Message != null) {
+    <p class="info">@ViewBag.Message</p>
+}
+<table class="claims-table">
+    <thead><tr><th>Claim ID</th><th>Lecturer</th><th>Hours</th><th>Rate</th><th>Verified On</th><th>Action</th></tr></thead>
+    <tbody>
+        <tr>
+            <td>CLM-001</td><td>Dr. Lecturer</td><td>16</td><td>R250</td><td>2025-09-02</td>
+            <td>
+                <form method="post" action="/Manager/Approve" style="display:inline"><input type="hidden" name="id" value="CLM-001" /><button class="btn small">Approve</button></form>
+                <form method="post" action="/Manager/Disapprove" style="display:inline"><input type="hidden" name="id" value="CLM-001" /><button class="btn small">Disapprove</button></form>
+            </td>
+        </tr>
+    </tbody>
+</table>

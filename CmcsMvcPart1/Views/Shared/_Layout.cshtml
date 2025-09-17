@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CMCS Prototype</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Contract Monthly Claim System (CMCS)</h1>
+            <nav class="main-nav">
+                <a href="/">Home</a>
+                <a href="/Lecturer/Dashboard">Lecturer</a>
+                <a href="/Coordinator/Dashboard">Coordinator</a>
+                <a href="/Manager/Dashboard">Manager</a>
+            </nav>
+        </header>
+        <main>
+            @RenderBody()
+        </main>
+        <footer>
+            <p>&copy; CMCS Prototype 2025</p>
+        </footer>
+    </div>
+</body>
+</html>
