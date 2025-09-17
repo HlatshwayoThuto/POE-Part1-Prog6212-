@@ -1,7 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hlath\\Music\\CmcsMvcPart1_noadmin\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\hlath\\OneDrive\\Desktop\\POE-Part1-Prog6212-\\CmcsMvcPart1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83061E41-D638-20F5-5F2F-0BEE99D98465}|CmcsMvcPart1.csproj|c:\\users\\hlath\\onedrive\\desktop\\poe-part1-prog6212-\\cmcsmvcpart1\\views\\manager\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83061E41-D638-20F5-5F2F-0BEE99D98465}|CmcsMvcPart1.csproj|solutionrelative:views\\manager\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hlath\\Music\\CmcsMvcPart1_noadmin_verifiedstatus\\Views\\Manager\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +17,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\POE-Part1-Prog6212-\\CmcsMvcPart1\\Views\\Manager\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manager\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\POE-Part1-Prog6212-\\CmcsMvcPart1\\Views\\Manager\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Manager\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T18:34:00.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlath\\Music\\CmcsMvcPart1_noadmin_verifiedstatus\\Views\\Manager\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Music\\CmcsMvcPart1_noadmin_verifiedstatus\\Views\\Manager\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\hlath\\Music\\CmcsMvcPart1_noadmin_verifiedstatus\\Views\\Manager\\Dashboard.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\Music\\CmcsMvcPart1_noadmin_verifiedstatus\\Views\\Manager\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T18:33:32.013Z"
             }
           ]
         }

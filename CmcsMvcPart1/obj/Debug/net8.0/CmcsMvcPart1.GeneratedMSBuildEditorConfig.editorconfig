@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CmcsMvcPart1
 build_property.RootNamespace = CmcsMvcPart1
-build_property.ProjectDir = C:\Users\hlath\Music\CmcsMvcPart1_noadmin\
+build_property.ProjectDir = C:\Users\hlath\OneDrive\Desktop\POE-Part1-Prog6212-\CmcsMvcPart1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hlath\Music\CmcsMvcPart1_noadmin
+build_property.MSBuildProjectDirectory = C:\Users\hlath\OneDrive\Desktop\POE-Part1-Prog6212-\CmcsMvcPart1
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/hlath/Music/CmcsMvcPart1_noadmin/Views/Coordinator/Dashboard.cshtml]
+[C:/Users/hlath/OneDrive/Desktop/POE-Part1-Prog6212-/CmcsMvcPart1/Views/Coordinator/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRpbmF0b3JcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlath/Music/CmcsMvcPart1_noadmin/Views/Home/Index.cshtml]
+[C:/Users/hlath/OneDrive/Desktop/POE-Part1-Prog6212-/CmcsMvcPart1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlath/Music/CmcsMvcPart1_noadmin/Views/Lecturer/CreateClaim.cshtml]
+[C:/Users/hlath/OneDrive/Desktop/POE-Part1-Prog6212-/CmcsMvcPart1/Views/Lecturer/CreateClaim.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJcQ3JlYXRlQ2xhaW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlath/Music/CmcsMvcPart1_noadmin/Views/Lecturer/Dashboard.cshtml]
+[C:/Users/hlath/OneDrive/Desktop/POE-Part1-Prog6212-/CmcsMvcPart1/Views/Lecturer/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlath/Music/CmcsMvcPart1_noadmin/Views/Manager/Dashboard.cshtml]
+[C:/Users/hlath/OneDrive/Desktop/POE-Part1-Prog6212-/CmcsMvcPart1/Views/Manager/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlath/Music/CmcsMvcPart1_noadmin/Views/Shared/_Layout.cshtml]
+[C:/Users/hlath/OneDrive/Desktop/POE-Part1-Prog6212-/CmcsMvcPart1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlath/Music/CmcsMvcPart1_noadmin/Views/_ViewImports.cshtml]
+[C:/Users/hlath/OneDrive/Desktop/POE-Part1-Prog6212-/CmcsMvcPart1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlath/Music/CmcsMvcPart1_noadmin/Views/_ViewStart.cshtml]
+[C:/Users/hlath/OneDrive/Desktop/POE-Part1-Prog6212-/CmcsMvcPart1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
